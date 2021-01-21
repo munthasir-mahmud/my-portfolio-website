@@ -1,0 +1,25 @@
+* {margin: 0;padding: 0;}
+
+body {font-family: 'Roboto Slab', serif;}
+h1 {font-size: 48px;}
+.name {color:#FFA500;}
+.half-width {width:40%;float:left;margin:5%;}
+.half-width img {width: 100%;}
+.top {background-image: url("images/top-banner.png");background-repeat: no-repeat;}
+.middle {background-image: url("images/dream-bg.png");background-repeat: no-repeat;margin-left: 9px;}
+section {height: 500px;overflow:hidden;}
+.button1 {
+    color:white;
+    text-decoration: none;
+    background-image:linear-gradient(45deg, #FF9974,#FF6A4D);
+    padding: 12px 35px;
+    border-radius: 5px;
+  }
+.topleft {margin-top: 20px;}
+.orange {color: #FFA518;}
+.block {height: 60%;box-shadow: 10px 10px 40px gray;padding: 10px;width: 38%;border-radius: 5px;background: #fff;}
+.baby {margin-top: 45px;}
+.bottom2 {background-image: url("images/exp-bg.png");background-repeat: no-repeat;background-position:left;height: 650px;}
+#left {border-left: 7px solid;border-image: linear-gradient(180deg, lightsalmon,tomato);border-image-slice: 1;}
+#right {border-left: 7px solid;border-image: linear-gradient(180deg, #0003FF,#00FCFF);border-image-slice: 1;}
+footer p{text-align: center;font-size: 12px;margin-bottom: 5px;}
